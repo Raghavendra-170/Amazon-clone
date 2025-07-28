@@ -2,7 +2,7 @@
 
 A responsive front-end clone of Amazon's homepage created to practice layout precision, UI structuring, and responsive design techniques using only HTML and CSS. This project helps reinforce the fundamentals of web design, grid layouts, and CSS styling.
 
-🔗 [Live Site](https://amazon-cloneid.netlify.app/)  
+🔗 [Live Site](https://amazon-cloneind.netlify.app/)  
 📦 [GitHub Repository](https://github.com/Raghavendra-170/Amazon-clone.git)
 
  ## 🎯 Features
