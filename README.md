@@ -21,7 +21,7 @@ A responsive front-end clone of Amazon's homepage created to practice layout pre
 - **Version Control:** Git & GitHub
 
 ## Folder Structure
-
+```text
 Amazon-clone/
 │
 ├── Assets/ # Contains all images used in the website
@@ -38,7 +38,7 @@ Amazon-clone/
 ├── index.html # Main homepage
 ├── style.css # Styling for the entire site
 └── README.md # Project documentation
-
+```
 ## 📌 How to Use
 
 ```bash
